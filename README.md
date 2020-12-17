@@ -9,6 +9,7 @@
 * [Carta](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/marking-up-a-letter-start/letter-text.txt "html")
 
 ### Solución ###
+
 - Los comandos que he utilizado para hacer este examen a sido: <br>
 - ul, p, br, strong, h1, h2, li, ol, h4, dl, dt, dd, q, align. <br>
 - Os explico como y para que los he utilizado: <br>
@@ -18,3 +19,7 @@
 - br para espacio entre lineas. <br>
 - El h1 h2 h4 para titulos y subtitulos. <br>
 - Y el dt, dd y dl para listas de definiciones. <br>
+
+* [Style](https://github.com/EricEo/Examen1/blob/main/Examen%201/style.css)
+
+* [Index](https://github.com/EricEo/Examen1/blob/main/Examen%201/index.html)
